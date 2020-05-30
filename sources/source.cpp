@@ -1,4 +1,4 @@
-// Copyright 2020 <telsamar>
+// Copyright 2020 <katiaashka1>
 #include <thread>
 #include <cstdlib>
 #include <vector>
